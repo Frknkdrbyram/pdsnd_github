@@ -7,11 +7,14 @@
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project uses the panda polarity and simple statistical methods to see the most popular days and the most common stations with the bicycle sharing data of Chicago, Washington and New York cities
 
 ### Files used
-Include the files used
+chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
+new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+
+washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity.
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
