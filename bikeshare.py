@@ -61,6 +61,9 @@ def get_filters():
 def multiply(x,y):
     return x*y
 
+def refactoring():
+    print('Refactoring')
+    
 def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
